@@ -18,8 +18,10 @@ Most of the code written by me is contained in the `pqheap.cpp` file.
 
 ## Milestone 5: Find the minimum distance path
 * Using Dijkstra's algorithm, minimum distance between two nodes selected by user was found and highlighted in red.
+
 ![image](https://github.com/Tez01/Pathfinder/blob/main/Dijkstra.PNG)
 
 ## Milestone 6: Minimal Spanning tree
 * Using Kruskal's algorithm the minimum spanning tree was drawn over the map. A shorter arc is given a higher priority
+
 ![image](https://github.com/Tez01/Pathfinder/blob/main/Kruskal.PNG)
