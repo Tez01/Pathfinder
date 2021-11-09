@@ -1,7 +1,6 @@
 # Pathfinder
 This program finds the shortest path between two nodes selected on a graph. This is a conglomeration of various datastructures and algorithms ranging from vector to maps and priority queues. The two main algorithms used in this program are Dijkstra's algorithm to find shortest path between two points and Kruskal's algorithm to draw the minimal spanning tree for the map.
 Most of the code written by me is contained in the `pqheap.cpp` file.
-![image](https://github.com/Tez01/Pathfinder/blob/main/Dijkstra.PNG)
 
 ## Milestone 1:  Make the priority queue generic by using templates in C++
 * A heap based priority queue was made generic using templates such that when a new node was added into the distance based priority queue, it is moved up to the appropriate position in the heap using `bubbleUp` routine.
@@ -19,6 +18,7 @@ Most of the code written by me is contained in the `pqheap.cpp` file.
 
 ## Milestone 5: Find the minimum distance path
 * Using Dijkstra's algorithm, minimum distance between two nodes selected by user was found and highlighted in red.
+![image](https://github.com/Tez01/Pathfinder/blob/main/Dijkstra.PNG)
 
 ## Milestone 6: Minimal Spanning tree
 * Using Kruskal's algorithm the minimum spanning tree was drawn over the map. A shorter arc is given a higher priority
