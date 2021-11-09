@@ -21,3 +21,4 @@ This program finds the shortest path between two nodes selected on a graph. This
 
 ## Milestone 6: Minimal Spanning tree
 * Using Kruskal's algorithm the minimum spanning tree was drawn over the map. A shorter arc is given a higher priority
+![image](https://github.com/Tez01/Pathfinder/blob/main/Kruskal.PNG)
