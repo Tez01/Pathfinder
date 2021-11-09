@@ -1,0 +1,5 @@
+﻿  pqueuetest.cpp
+E:\CS106B\Projects\Assignment 7 Pathfinder\pqueuetest.cpp(11,10): fatal error C1083: Cannot open include file: 'genlib.h': No such file or directory
+  pathfinder.cpp
+E:\CS106B\Projects\Assignment 7 Pathfinder\Assignment 7 Pathfinder\pqueue.h(12,10): fatal error C1083: Cannot open include file: 'disallowcopy.h': No such file or directory
+  Generating Code...
